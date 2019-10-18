@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://airiethuj.soccer-net.org/sitemap.xml
